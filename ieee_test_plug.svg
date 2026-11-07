@@ -1,0 +1,465 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1386 760" width="1386" height="760" font-family="Helvetica, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#fff"/>
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#c80"/></marker></defs>
+<g stroke="#000" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<line x1="170" y1="110" x2="1310" y2="110" stroke="#c00" stroke-width="2.2"/>
+<circle cx="320" cy="110" r="3.2" fill="#000"/>
+<line x1="320" y1="110" x2="320" y2="120"/>
+<polyline points="320.0,120.0 327.0,125.8 313.0,137.5 327.0,149.2 313.0,160.8 327.0,172.5 313.0,184.2 320.0,190.0"/>
+<line x1="320" y1="190" x2="320" y2="200"/>
+<line x1="320" y1="230" x2="320" y2="240"/>
+<path d="M310,240 L330,240 L320,258 z" fill="#9d6"/>
+<line x1="310" y1="258" x2="330" y2="258"/>
+<line x1="320" y1="258" x2="320" y2="270"/>
+<line x1="332" y1="244" x2="342" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="332" y1="252" x2="342" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="320" y1="200" x2="320" y2="230"/>
+<line x1="320" y1="270" x2="320" y2="520"/>
+<circle cx="320" cy="330" r="3.2" fill="#000"/>
+<line x1="320" y1="330" x2="344" y2="330"/>
+<line x1="344" y1="330" x2="344" y2="342"/>
+<circle cx="344" cy="344" r="2.5" fill="#fff"/>
+<line x1="344" y1="346" x2="355" y2="382"/>
+<circle cx="344" cy="386" r="2.5" fill="#fff"/>
+<line x1="344" y1="388" x2="344" y2="400"/>
+<line x1="344" y1="400" x2="344" y2="408"/><line x1="334" y1="408" x2="354" y2="408"/><line x1="338" y1="412" x2="350" y2="412"/><line x1="342" y1="416" x2="346" y2="416"/>
+<rect x="311" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="386" cy="110" r="3.2" fill="#000"/>
+<line x1="386" y1="110" x2="386" y2="120"/>
+<polyline points="386.0,120.0 393.0,125.8 379.0,137.5 393.0,149.2 379.0,160.8 393.0,172.5 379.0,184.2 386.0,190.0"/>
+<line x1="386" y1="190" x2="386" y2="200"/>
+<line x1="386" y1="230" x2="386" y2="240"/>
+<path d="M376,240 L396,240 L386,258 z" fill="#9d6"/>
+<line x1="376" y1="258" x2="396" y2="258"/>
+<line x1="386" y1="258" x2="386" y2="270"/>
+<line x1="398" y1="244" x2="408" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="398" y1="252" x2="408" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="386" y1="200" x2="386" y2="230"/>
+<line x1="386" y1="270" x2="386" y2="520"/>
+<circle cx="386" cy="330" r="3.2" fill="#000"/>
+<line x1="386" y1="330" x2="410" y2="330"/>
+<line x1="410" y1="330" x2="410" y2="342"/>
+<circle cx="410" cy="344" r="2.5" fill="#fff"/>
+<line x1="410" y1="346" x2="421" y2="382"/>
+<circle cx="410" cy="386" r="2.5" fill="#fff"/>
+<line x1="410" y1="388" x2="410" y2="400"/>
+<line x1="410" y1="400" x2="410" y2="408"/><line x1="400" y1="408" x2="420" y2="408"/><line x1="404" y1="412" x2="416" y2="412"/><line x1="408" y1="416" x2="412" y2="416"/>
+<rect x="377" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="452" cy="110" r="3.2" fill="#000"/>
+<line x1="452" y1="110" x2="452" y2="120"/>
+<polyline points="452.0,120.0 459.0,125.8 445.0,137.5 459.0,149.2 445.0,160.8 459.0,172.5 445.0,184.2 452.0,190.0"/>
+<line x1="452" y1="190" x2="452" y2="200"/>
+<line x1="452" y1="230" x2="452" y2="240"/>
+<path d="M442,240 L462,240 L452,258 z" fill="#9d6"/>
+<line x1="442" y1="258" x2="462" y2="258"/>
+<line x1="452" y1="258" x2="452" y2="270"/>
+<line x1="464" y1="244" x2="474" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="464" y1="252" x2="474" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="452" y1="200" x2="452" y2="230"/>
+<line x1="452" y1="270" x2="452" y2="520"/>
+<circle cx="452" cy="330" r="3.2" fill="#000"/>
+<line x1="452" y1="330" x2="476" y2="330"/>
+<line x1="476" y1="330" x2="476" y2="342"/>
+<circle cx="476" cy="344" r="2.5" fill="#fff"/>
+<line x1="476" y1="346" x2="487" y2="382"/>
+<circle cx="476" cy="386" r="2.5" fill="#fff"/>
+<line x1="476" y1="388" x2="476" y2="400"/>
+<line x1="476" y1="400" x2="476" y2="408"/><line x1="466" y1="408" x2="486" y2="408"/><line x1="470" y1="412" x2="482" y2="412"/><line x1="474" y1="416" x2="478" y2="416"/>
+<rect x="443" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="518" cy="110" r="3.2" fill="#000"/>
+<line x1="518" y1="110" x2="518" y2="120"/>
+<polyline points="518.0,120.0 525.0,125.8 511.0,137.5 525.0,149.2 511.0,160.8 525.0,172.5 511.0,184.2 518.0,190.0"/>
+<line x1="518" y1="190" x2="518" y2="200"/>
+<line x1="518" y1="230" x2="518" y2="240"/>
+<path d="M508,240 L528,240 L518,258 z" fill="#9d6"/>
+<line x1="508" y1="258" x2="528" y2="258"/>
+<line x1="518" y1="258" x2="518" y2="270"/>
+<line x1="530" y1="244" x2="540" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="530" y1="252" x2="540" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="518" y1="200" x2="518" y2="230"/>
+<line x1="518" y1="270" x2="518" y2="520"/>
+<circle cx="518" cy="330" r="3.2" fill="#000"/>
+<line x1="518" y1="330" x2="542" y2="330"/>
+<line x1="542" y1="330" x2="542" y2="342"/>
+<circle cx="542" cy="344" r="2.5" fill="#fff"/>
+<line x1="542" y1="346" x2="553" y2="382"/>
+<circle cx="542" cy="386" r="2.5" fill="#fff"/>
+<line x1="542" y1="388" x2="542" y2="400"/>
+<line x1="542" y1="400" x2="542" y2="408"/><line x1="532" y1="408" x2="552" y2="408"/><line x1="536" y1="412" x2="548" y2="412"/><line x1="540" y1="416" x2="544" y2="416"/>
+<rect x="509" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="584" cy="110" r="3.2" fill="#000"/>
+<line x1="584" y1="110" x2="584" y2="120"/>
+<polyline points="584.0,120.0 591.0,125.8 577.0,137.5 591.0,149.2 577.0,160.8 591.0,172.5 577.0,184.2 584.0,190.0"/>
+<line x1="584" y1="190" x2="584" y2="200"/>
+<line x1="584" y1="230" x2="584" y2="240"/>
+<path d="M574,240 L594,240 L584,258 z" fill="#9d6"/>
+<line x1="574" y1="258" x2="594" y2="258"/>
+<line x1="584" y1="258" x2="584" y2="270"/>
+<line x1="596" y1="244" x2="606" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="596" y1="252" x2="606" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="584" y1="200" x2="584" y2="230"/>
+<line x1="584" y1="270" x2="584" y2="520"/>
+<circle cx="584" cy="330" r="3.2" fill="#000"/>
+<line x1="584" y1="330" x2="608" y2="330"/>
+<line x1="608" y1="330" x2="608" y2="342"/>
+<circle cx="608" cy="344" r="2.5" fill="#fff"/>
+<line x1="608" y1="346" x2="619" y2="382"/>
+<circle cx="608" cy="386" r="2.5" fill="#fff"/>
+<line x1="608" y1="388" x2="608" y2="400"/>
+<line x1="608" y1="400" x2="608" y2="408"/><line x1="598" y1="408" x2="618" y2="408"/><line x1="602" y1="412" x2="614" y2="412"/><line x1="606" y1="416" x2="610" y2="416"/>
+<rect x="575" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="650" cy="110" r="3.2" fill="#000"/>
+<line x1="650" y1="110" x2="650" y2="120"/>
+<polyline points="650.0,120.0 657.0,125.8 643.0,137.5 657.0,149.2 643.0,160.8 657.0,172.5 643.0,184.2 650.0,190.0"/>
+<line x1="650" y1="190" x2="650" y2="200"/>
+<line x1="650" y1="230" x2="650" y2="240"/>
+<path d="M640,240 L660,240 L650,258 z" fill="#9d6"/>
+<line x1="640" y1="258" x2="660" y2="258"/>
+<line x1="650" y1="258" x2="650" y2="270"/>
+<line x1="662" y1="244" x2="672" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="662" y1="252" x2="672" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="650" y1="200" x2="650" y2="230"/>
+<line x1="650" y1="270" x2="650" y2="520"/>
+<circle cx="650" cy="330" r="3.2" fill="#000"/>
+<line x1="650" y1="330" x2="674" y2="330"/>
+<line x1="674" y1="330" x2="674" y2="342"/>
+<circle cx="674" cy="344" r="2.5" fill="#fff"/>
+<line x1="674" y1="346" x2="685" y2="382"/>
+<circle cx="674" cy="386" r="2.5" fill="#fff"/>
+<line x1="674" y1="388" x2="674" y2="400"/>
+<line x1="674" y1="400" x2="674" y2="408"/><line x1="664" y1="408" x2="684" y2="408"/><line x1="668" y1="412" x2="680" y2="412"/><line x1="672" y1="416" x2="676" y2="416"/>
+<rect x="641" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="716" cy="110" r="3.2" fill="#000"/>
+<line x1="716" y1="110" x2="716" y2="120"/>
+<polyline points="716.0,120.0 723.0,125.8 709.0,137.5 723.0,149.2 709.0,160.8 723.0,172.5 709.0,184.2 716.0,190.0"/>
+<line x1="716" y1="190" x2="716" y2="200"/>
+<line x1="716" y1="230" x2="716" y2="240"/>
+<path d="M706,240 L726,240 L716,258 z" fill="#9d6"/>
+<line x1="706" y1="258" x2="726" y2="258"/>
+<line x1="716" y1="258" x2="716" y2="270"/>
+<line x1="728" y1="244" x2="738" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="728" y1="252" x2="738" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="716" y1="200" x2="716" y2="230"/>
+<line x1="716" y1="270" x2="716" y2="520"/>
+<circle cx="716" cy="330" r="3.2" fill="#000"/>
+<line x1="716" y1="330" x2="740" y2="330"/>
+<line x1="740" y1="330" x2="740" y2="342"/>
+<circle cx="740" cy="344" r="2.5" fill="#fff"/>
+<line x1="740" y1="346" x2="751" y2="382"/>
+<circle cx="740" cy="386" r="2.5" fill="#fff"/>
+<line x1="740" y1="388" x2="740" y2="400"/>
+<line x1="740" y1="400" x2="740" y2="408"/><line x1="730" y1="408" x2="750" y2="408"/><line x1="734" y1="412" x2="746" y2="412"/><line x1="738" y1="416" x2="742" y2="416"/>
+<rect x="707" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="782" cy="110" r="3.2" fill="#000"/>
+<line x1="782" y1="110" x2="782" y2="120"/>
+<polyline points="782.0,120.0 789.0,125.8 775.0,137.5 789.0,149.2 775.0,160.8 789.0,172.5 775.0,184.2 782.0,190.0"/>
+<line x1="782" y1="190" x2="782" y2="200"/>
+<line x1="782" y1="230" x2="782" y2="240"/>
+<path d="M772,240 L792,240 L782,258 z" fill="#9d6"/>
+<line x1="772" y1="258" x2="792" y2="258"/>
+<line x1="782" y1="258" x2="782" y2="270"/>
+<line x1="794" y1="244" x2="804" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="794" y1="252" x2="804" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="782" y1="200" x2="782" y2="230"/>
+<line x1="782" y1="270" x2="782" y2="520"/>
+<circle cx="782" cy="330" r="3.2" fill="#000"/>
+<line x1="782" y1="330" x2="806" y2="330"/>
+<line x1="806" y1="330" x2="806" y2="342"/>
+<circle cx="806" cy="344" r="2.5" fill="#fff"/>
+<line x1="806" y1="346" x2="817" y2="382"/>
+<circle cx="806" cy="386" r="2.5" fill="#fff"/>
+<line x1="806" y1="388" x2="806" y2="400"/>
+<line x1="806" y1="400" x2="806" y2="408"/><line x1="796" y1="408" x2="816" y2="408"/><line x1="800" y1="412" x2="812" y2="412"/><line x1="804" y1="416" x2="808" y2="416"/>
+<rect x="773" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="848" cy="110" r="3.2" fill="#000"/>
+<line x1="848" y1="110" x2="848" y2="120"/>
+<polyline points="848.0,120.0 855.0,125.8 841.0,137.5 855.0,149.2 841.0,160.8 855.0,172.5 841.0,184.2 848.0,190.0"/>
+<line x1="848" y1="190" x2="848" y2="200"/>
+<line x1="848" y1="230" x2="848" y2="240"/>
+<path d="M838,240 L858,240 L848,258 z" fill="#9d6"/>
+<line x1="838" y1="258" x2="858" y2="258"/>
+<line x1="848" y1="258" x2="848" y2="270"/>
+<line x1="860" y1="244" x2="870" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="860" y1="252" x2="870" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="848" y1="200" x2="848" y2="230"/>
+<line x1="848" y1="270" x2="848" y2="520"/>
+<circle cx="848" cy="330" r="3.2" fill="#000"/>
+<line x1="848" y1="330" x2="872" y2="330"/>
+<line x1="872" y1="330" x2="872" y2="342"/>
+<circle cx="872" cy="344" r="2.5" fill="#fff"/>
+<line x1="872" y1="346" x2="883" y2="382"/>
+<circle cx="872" cy="386" r="2.5" fill="#fff"/>
+<line x1="872" y1="388" x2="872" y2="400"/>
+<line x1="872" y1="400" x2="872" y2="408"/><line x1="862" y1="408" x2="882" y2="408"/><line x1="866" y1="412" x2="878" y2="412"/><line x1="870" y1="416" x2="874" y2="416"/>
+<rect x="839" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="914" cy="110" r="3.2" fill="#000"/>
+<line x1="914" y1="110" x2="914" y2="120"/>
+<polyline points="914.0,120.0 921.0,125.8 907.0,137.5 921.0,149.2 907.0,160.8 921.0,172.5 907.0,184.2 914.0,190.0"/>
+<line x1="914" y1="190" x2="914" y2="200"/>
+<line x1="914" y1="230" x2="914" y2="240"/>
+<path d="M904,240 L924,240 L914,258 z" fill="#9d6"/>
+<line x1="904" y1="258" x2="924" y2="258"/>
+<line x1="914" y1="258" x2="914" y2="270"/>
+<line x1="926" y1="244" x2="936" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="926" y1="252" x2="936" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="914" y1="200" x2="914" y2="230"/>
+<line x1="914" y1="270" x2="914" y2="520"/>
+<circle cx="914" cy="330" r="3.2" fill="#000"/>
+<line x1="914" y1="330" x2="938" y2="330"/>
+<line x1="938" y1="330" x2="938" y2="342"/>
+<circle cx="938" cy="344" r="2.5" fill="#fff"/>
+<line x1="938" y1="346" x2="949" y2="382"/>
+<circle cx="938" cy="386" r="2.5" fill="#fff"/>
+<line x1="938" y1="388" x2="938" y2="400"/>
+<line x1="938" y1="400" x2="938" y2="408"/><line x1="928" y1="408" x2="948" y2="408"/><line x1="932" y1="412" x2="944" y2="412"/><line x1="936" y1="416" x2="940" y2="416"/>
+<rect x="905" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="980" cy="110" r="3.2" fill="#000"/>
+<line x1="980" y1="110" x2="980" y2="120"/>
+<polyline points="980.0,120.0 987.0,125.8 973.0,137.5 987.0,149.2 973.0,160.8 987.0,172.5 973.0,184.2 980.0,190.0"/>
+<line x1="980" y1="190" x2="980" y2="200"/>
+<line x1="980" y1="230" x2="980" y2="240"/>
+<path d="M970,240 L990,240 L980,258 z" fill="#9d6"/>
+<line x1="970" y1="258" x2="990" y2="258"/>
+<line x1="980" y1="258" x2="980" y2="270"/>
+<line x1="992" y1="244" x2="1002" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="992" y1="252" x2="1002" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="980" y1="200" x2="980" y2="230"/>
+<line x1="980" y1="270" x2="980" y2="520"/>
+<circle cx="980" cy="330" r="3.2" fill="#000"/>
+<line x1="980" y1="330" x2="1004" y2="330"/>
+<line x1="1004" y1="330" x2="1004" y2="342"/>
+<circle cx="1004" cy="344" r="2.5" fill="#fff"/>
+<line x1="1004" y1="346" x2="1015" y2="382"/>
+<circle cx="1004" cy="386" r="2.5" fill="#fff"/>
+<line x1="1004" y1="388" x2="1004" y2="400"/>
+<line x1="1004" y1="400" x2="1004" y2="408"/><line x1="994" y1="408" x2="1014" y2="408"/><line x1="998" y1="412" x2="1010" y2="412"/><line x1="1002" y1="416" x2="1006" y2="416"/>
+<rect x="971" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="1046" cy="110" r="3.2" fill="#000"/>
+<line x1="1046" y1="110" x2="1046" y2="120"/>
+<polyline points="1046.0,120.0 1053.0,125.8 1039.0,137.5 1053.0,149.2 1039.0,160.8 1053.0,172.5 1039.0,184.2 1046.0,190.0"/>
+<line x1="1046" y1="190" x2="1046" y2="200"/>
+<line x1="1046" y1="230" x2="1046" y2="240"/>
+<path d="M1036,240 L1056,240 L1046,258 z" fill="#9d6"/>
+<line x1="1036" y1="258" x2="1056" y2="258"/>
+<line x1="1046" y1="258" x2="1046" y2="270"/>
+<line x1="1058" y1="244" x2="1068" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1058" y1="252" x2="1068" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1046" y1="200" x2="1046" y2="230"/>
+<line x1="1046" y1="270" x2="1046" y2="520"/>
+<circle cx="1046" cy="330" r="3.2" fill="#000"/>
+<line x1="1046" y1="330" x2="1070" y2="330"/>
+<line x1="1070" y1="330" x2="1070" y2="342"/>
+<circle cx="1070" cy="344" r="2.5" fill="#fff"/>
+<line x1="1070" y1="346" x2="1081" y2="382"/>
+<circle cx="1070" cy="386" r="2.5" fill="#fff"/>
+<line x1="1070" y1="388" x2="1070" y2="400"/>
+<line x1="1070" y1="400" x2="1070" y2="408"/><line x1="1060" y1="408" x2="1080" y2="408"/><line x1="1064" y1="412" x2="1076" y2="412"/><line x1="1068" y1="416" x2="1072" y2="416"/>
+<rect x="1037" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="1112" cy="110" r="3.2" fill="#000"/>
+<line x1="1112" y1="110" x2="1112" y2="120"/>
+<polyline points="1112.0,120.0 1119.0,125.8 1105.0,137.5 1119.0,149.2 1105.0,160.8 1119.0,172.5 1105.0,184.2 1112.0,190.0"/>
+<line x1="1112" y1="190" x2="1112" y2="200"/>
+<line x1="1112" y1="230" x2="1112" y2="240"/>
+<path d="M1102,240 L1122,240 L1112,258 z" fill="#9d6"/>
+<line x1="1102" y1="258" x2="1122" y2="258"/>
+<line x1="1112" y1="258" x2="1112" y2="270"/>
+<line x1="1124" y1="244" x2="1134" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1124" y1="252" x2="1134" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1112" y1="200" x2="1112" y2="230"/>
+<line x1="1112" y1="270" x2="1112" y2="520"/>
+<circle cx="1112" cy="330" r="3.2" fill="#000"/>
+<line x1="1112" y1="330" x2="1136" y2="330"/>
+<line x1="1136" y1="330" x2="1136" y2="342"/>
+<circle cx="1136" cy="344" r="2.5" fill="#fff"/>
+<line x1="1136" y1="346" x2="1147" y2="382"/>
+<circle cx="1136" cy="386" r="2.5" fill="#fff"/>
+<line x1="1136" y1="388" x2="1136" y2="400"/>
+<line x1="1136" y1="400" x2="1136" y2="408"/><line x1="1126" y1="408" x2="1146" y2="408"/><line x1="1130" y1="412" x2="1142" y2="412"/><line x1="1134" y1="416" x2="1138" y2="416"/>
+<rect x="1103" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="1178" cy="110" r="3.2" fill="#000"/>
+<line x1="1178" y1="110" x2="1178" y2="120"/>
+<polyline points="1178.0,120.0 1185.0,125.8 1171.0,137.5 1185.0,149.2 1171.0,160.8 1185.0,172.5 1171.0,184.2 1178.0,190.0"/>
+<line x1="1178" y1="190" x2="1178" y2="200"/>
+<line x1="1178" y1="230" x2="1178" y2="240"/>
+<path d="M1168,240 L1188,240 L1178,258 z" fill="#9d6"/>
+<line x1="1168" y1="258" x2="1188" y2="258"/>
+<line x1="1178" y1="258" x2="1178" y2="270"/>
+<line x1="1190" y1="244" x2="1200" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1190" y1="252" x2="1200" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1178" y1="200" x2="1178" y2="230"/>
+<line x1="1178" y1="270" x2="1178" y2="520"/>
+<circle cx="1178" cy="330" r="3.2" fill="#000"/>
+<line x1="1178" y1="330" x2="1202" y2="330"/>
+<line x1="1202" y1="330" x2="1202" y2="342"/>
+<circle cx="1202" cy="344" r="2.5" fill="#fff"/>
+<line x1="1202" y1="346" x2="1213" y2="382"/>
+<circle cx="1202" cy="386" r="2.5" fill="#fff"/>
+<line x1="1202" y1="388" x2="1202" y2="400"/>
+<line x1="1202" y1="400" x2="1202" y2="408"/><line x1="1192" y1="408" x2="1212" y2="408"/><line x1="1196" y1="412" x2="1208" y2="412"/><line x1="1200" y1="416" x2="1204" y2="416"/>
+<rect x="1169" y="520" width="18" height="14" fill="#eee"/>
+<circle cx="1244" cy="110" r="3.2" fill="#000"/>
+<line x1="1244" y1="110" x2="1244" y2="120"/>
+<polyline points="1244.0,120.0 1251.0,125.8 1237.0,137.5 1251.0,149.2 1237.0,160.8 1251.0,172.5 1237.0,184.2 1244.0,190.0"/>
+<line x1="1244" y1="190" x2="1244" y2="200"/>
+<line x1="1244" y1="230" x2="1244" y2="240"/>
+<path d="M1234,240 L1254,240 L1244,258 z" fill="#9d6"/>
+<line x1="1234" y1="258" x2="1254" y2="258"/>
+<line x1="1244" y1="258" x2="1244" y2="270"/>
+<line x1="1256" y1="244" x2="1266" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1256" y1="252" x2="1266" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1244" y1="200" x2="1244" y2="230"/>
+<line x1="1244" y1="270" x2="1244" y2="520"/>
+<rect x="1235" y="520" width="18" height="14" fill="#eee"/>
+<line x1="1310" y1="110" x2="1310" y2="120"/>
+<polyline points="1310.0,120.0 1317.0,125.8 1303.0,137.5 1317.0,149.2 1303.0,160.8 1317.0,172.5 1303.0,184.2 1310.0,190.0"/>
+<line x1="1310" y1="190" x2="1310" y2="200"/>
+<line x1="1310" y1="230" x2="1310" y2="240"/>
+<path d="M1300,240 L1320,240 L1310,258 z" fill="#9d6"/>
+<line x1="1300" y1="258" x2="1320" y2="258"/>
+<line x1="1310" y1="258" x2="1310" y2="270"/>
+<line x1="1322" y1="244" x2="1332" y2="236" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1322" y1="252" x2="1332" y2="244" stroke="#c80" stroke-width="1.2" marker-end="url(#ar)"/>
+<line x1="1310" y1="200" x2="1310" y2="230"/>
+<line x1="1310" y1="270" x2="1310" y2="520"/>
+<rect x="1301" y="520" width="18" height="14" fill="#eee"/>
+</g>
+<rect x="150" y="534" width="1200" height="64" fill="#f3f3f3" stroke="#000" stroke-width="1.6"/>
+<g stroke="#000" stroke-width="1.6" fill="none">
+<line x1="170" y1="290" x2="170" y2="298"/><line x1="160" y1="298" x2="180" y2="298"/><line x1="164" y1="302" x2="176" y2="302"/><line x1="168" y1="306" x2="172" y2="306"/>
+<polyline points="240,520 240,480 200,480"/>
+<circle cx="240" cy="480" r="3.2" fill="#000"/>
+<line x1="200" y1="480" x2="200" y2="488"/><line x1="190" y1="488" x2="210" y2="488"/><line x1="194" y1="492" x2="206" y2="492"/><line x1="198" y1="496" x2="202" y2="496"/>
+<rect x="231" y="520" width="18" height="14" fill="#eee"/>
+</g>
+<text x="320" y="554" text-anchor="middle" font-size="13" font-weight="bold">1</text>
+<text x="320" y="572" text-anchor="middle" font-size="11">DIO1</text>
+<text x="333" y="162" font-size="10" fill="#444">R1</text>
+<text x="308" y="252" text-anchor="end" font-size="10" fill="#444">D1</text>
+<text x="320" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#1</text>
+<text x="358" y="370" font-size="10" fill="#444">S1</text>
+<text x="386" y="554" text-anchor="middle" font-size="13" font-weight="bold">2</text>
+<text x="386" y="572" text-anchor="middle" font-size="11">DIO2</text>
+<text x="399" y="162" font-size="10" fill="#444">R2</text>
+<text x="374" y="252" text-anchor="end" font-size="10" fill="#444">D2</text>
+<text x="386" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#2</text>
+<text x="424" y="370" font-size="10" fill="#444">S2</text>
+<text x="452" y="554" text-anchor="middle" font-size="13" font-weight="bold">3</text>
+<text x="452" y="572" text-anchor="middle" font-size="11">DIO3</text>
+<text x="465" y="162" font-size="10" fill="#444">R3</text>
+<text x="440" y="252" text-anchor="end" font-size="10" fill="#444">D3</text>
+<text x="452" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#3</text>
+<text x="490" y="370" font-size="10" fill="#444">S3</text>
+<text x="518" y="554" text-anchor="middle" font-size="13" font-weight="bold">4</text>
+<text x="518" y="572" text-anchor="middle" font-size="11">DIO4</text>
+<text x="531" y="162" font-size="10" fill="#444">R4</text>
+<text x="506" y="252" text-anchor="end" font-size="10" fill="#444">D4</text>
+<text x="518" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#4</text>
+<text x="556" y="370" font-size="10" fill="#444">S4</text>
+<text x="584" y="554" text-anchor="middle" font-size="13" font-weight="bold">A</text>
+<text x="584" y="572" text-anchor="middle" font-size="11">DIO5</text>
+<text x="597" y="162" font-size="10" fill="#444">R5</text>
+<text x="572" y="252" text-anchor="end" font-size="10" fill="#444">D5</text>
+<text x="584" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#5</text>
+<text x="622" y="370" font-size="10" fill="#444">S5</text>
+<text x="650" y="554" text-anchor="middle" font-size="13" font-weight="bold">B</text>
+<text x="650" y="572" text-anchor="middle" font-size="11">DIO6</text>
+<text x="663" y="162" font-size="10" fill="#444">R6</text>
+<text x="638" y="252" text-anchor="end" font-size="10" fill="#444">D6</text>
+<text x="650" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#6</text>
+<text x="688" y="370" font-size="10" fill="#444">S6</text>
+<text x="716" y="554" text-anchor="middle" font-size="13" font-weight="bold">C</text>
+<text x="716" y="572" text-anchor="middle" font-size="11">DIO7</text>
+<text x="729" y="162" font-size="10" fill="#444">R7</text>
+<text x="704" y="252" text-anchor="end" font-size="10" fill="#444">D7</text>
+<text x="716" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#7</text>
+<text x="754" y="370" font-size="10" fill="#444">S7</text>
+<text x="782" y="554" text-anchor="middle" font-size="13" font-weight="bold">D</text>
+<text x="782" y="572" text-anchor="middle" font-size="11">DIO8</text>
+<text x="795" y="162" font-size="10" fill="#444">R8</text>
+<text x="770" y="252" text-anchor="end" font-size="10" fill="#444">D8</text>
+<text x="782" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#8</text>
+<text x="820" y="370" font-size="10" fill="#444">S8</text>
+<text x="848" y="554" text-anchor="middle" font-size="13" font-weight="bold">5</text>
+<text x="848" y="572" text-anchor="middle" font-size="11">EOI</text>
+<text x="861" y="162" font-size="10" fill="#444">R9</text>
+<text x="836" y="252" text-anchor="end" font-size="10" fill="#444">D9</text>
+<text x="848" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#9</text>
+<text x="886" y="370" font-size="10" fill="#444">S9</text>
+<text x="914" y="554" text-anchor="middle" font-size="13" font-weight="bold">6</text>
+<text x="914" y="572" text-anchor="middle" font-size="11">DAV</text>
+<text x="927" y="162" font-size="10" fill="#444">R10</text>
+<text x="902" y="252" text-anchor="end" font-size="10" fill="#444">D10</text>
+<text x="914" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#10</text>
+<text x="952" y="370" font-size="10" fill="#444">S10</text>
+<text x="980" y="554" text-anchor="middle" font-size="13" font-weight="bold">7</text>
+<text x="980" y="572" text-anchor="middle" font-size="11">NRFD</text>
+<text x="993" y="162" font-size="10" fill="#444">R11</text>
+<text x="968" y="252" text-anchor="end" font-size="10" fill="#444">D11</text>
+<text x="980" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#11</text>
+<text x="1018" y="370" font-size="10" fill="#444">S11</text>
+<text x="1046" y="554" text-anchor="middle" font-size="13" font-weight="bold">8</text>
+<text x="1046" y="572" text-anchor="middle" font-size="11">NDAC</text>
+<text x="1059" y="162" font-size="10" fill="#444">R12</text>
+<text x="1034" y="252" text-anchor="end" font-size="10" fill="#444">D12</text>
+<text x="1046" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#12</text>
+<text x="1084" y="370" font-size="10" fill="#444">S12</text>
+<text x="1112" y="554" text-anchor="middle" font-size="13" font-weight="bold">11</text>
+<text x="1112" y="572" text-anchor="middle" font-size="11">ATN</text>
+<text x="1125" y="162" font-size="10" fill="#444">R13</text>
+<text x="1100" y="252" text-anchor="end" font-size="10" fill="#444">D13</text>
+<text x="1112" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#13</text>
+<text x="1150" y="370" font-size="10" fill="#444">S13</text>
+<text x="1178" y="554" text-anchor="middle" font-size="13" font-weight="bold">10</text>
+<text x="1178" y="572" text-anchor="middle" font-size="11">SRQ</text>
+<text x="1191" y="162" font-size="10" fill="#444">R14</text>
+<text x="1166" y="252" text-anchor="end" font-size="10" fill="#444">D14</text>
+<text x="1178" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#14</text>
+<text x="1216" y="370" font-size="10" fill="#444">S14</text>
+<text x="1244" y="554" text-anchor="middle" font-size="13" font-weight="bold">9</text>
+<text x="1244" y="572" text-anchor="middle" font-size="11">IFC</text>
+<text x="1257" y="162" font-size="10" fill="#444">R15</text>
+<text x="1232" y="252" text-anchor="end" font-size="10" fill="#444">D15</text>
+<text x="1244" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#15</text>
+<text x="1250" y="380" font-size="10" fill="#666">no</text>
+<text x="1250" y="392" font-size="10" fill="#666">switch</text>
+<text x="1310" y="554" text-anchor="middle" font-size="13" font-weight="bold">E</text>
+<text x="1310" y="572" text-anchor="middle" font-size="11">REN</text>
+<text x="1323" y="162" font-size="10" fill="#444">R16</text>
+<text x="1298" y="252" text-anchor="end" font-size="10" fill="#444">D16</text>
+<text x="1310" y="82" text-anchor="middle" font-size="12" font-weight="bold" fill="#063">#16</text>
+<text x="1316" y="380" font-size="10" fill="#666">no</text>
+<text x="1316" y="392" font-size="10" fill="#666">switch</text>
+<text x="290" y="82" text-anchor="end" font-size="11" fill="#063">LED # (program)</text>
+<text x="158" y="554" font-size="11" fill="#444">pin</text>
+<text x="158" y="572" font-size="11" fill="#444">signal</text>
+<text x="750.0" y="592" text-anchor="middle" font-size="12" font-style="italic">J1 — 24-way (2×12) 0.156" card-edge socket, mates with PET IEEE-488 port   ·   pins 1–12 on one side, A–N on the other   ·   GND = pins 12, F, H, J, K, L, M, N</text>
+<g stroke="#000" stroke-width="1.6" fill="none">
+<rect x="30" y="150" width="70" height="80" fill="#f3f3f3"/>
+<rect x="100" y="166" width="14" height="14" fill="#eee"/><rect x="100" y="200" width="14" height="14" fill="#eee"/>
+<line x1="114" y1="173" x2="170" y2="173" stroke="#c00" stroke-width="2.2"/><line x1="170" y1="173" x2="170" y2="110" stroke="#c00" stroke-width="2.2"/>
+<line x1="114" y1="207" x2="140" y2="207"/><line x1="140" y1="207" x2="140" y2="290"/>
+<line x1="170" y1="173" x2="170" y2="240"/>
+<line x1="158" y1="240" x2="182" y2="240"/><line x1="158" y1="248" x2="182" y2="248"/>
+<line x1="170" y1="248" x2="170" y2="290"/><line x1="140" y1="290" x2="170" y2="290"/>
+</g>
+<circle cx="170" cy="173" r="3.2" fill="#000"/><circle cx="170" cy="290" r="3.2" fill="#000"/>
+<text x="65" y="140" text-anchor="middle" font-size="11" font-weight="bold">J2</text>
+<text x="65" y="186" text-anchor="middle" font-size="10">PET</text>
+<text x="65" y="198" text-anchor="middle" font-size="10">cassette</text>
+<text x="65" y="210" text-anchor="middle" font-size="10">port #2</text>
+<text x="120" y="164" font-size="10">2/B</text><text x="120" y="223" font-size="10">1/A</text>
+<text x="176" y="104" font-size="13" font-weight="bold" fill="#c00">+5V</text>
+<text x="186" y="248" font-size="10">C1</text><text x="186" y="260" font-size="10">100nF</text>
+<text x="240" y="554" text-anchor="middle" font-size="12" font-weight="bold">12,F–N</text>
+<text x="240" y="572" text-anchor="middle" font-size="11">GND</text>
+<text x="170" y="448" font-size="10" fill="#444">all ground symbols</text>
+<text x="170" y="460" font-size="10" fill="#444">= J1 GND pins</text>
+<text x="30" y="640" font-size="14" font-weight="bold">IEEE-488 TEST PLUG — Commodore PET universal board — for IEEETEST.PRG</text>
+<text x="30" y="659" font-size="12" >R1–R16: 680 Ω ¼ W     D1–D16: green or yellow LED, Vf ≈ 2.0–2.2 V (not red: idle bus ≈ 3.3 V can make red glow)</text>
+<text x="30" y="678" font-size="12" >S1–S14: SPST to ground, no series resistor (two 8-way DIP switches work)     C1: 100 nF ceramic</text>
+<text x="30" y="697" font-size="12" >LED lights when the line is LOW (asserted). All switches OFF except when the program asks for one.</text>
+<text x="30" y="716" font-size="12" >REN is grounded inside the PET, so D16 is always lit: it doubles as a 'plug fitted and powered' indicator.</text>
+<text x="30" y="735" font-size="12" >Before first use: check J1 pins 12 and N read 0 Ω to the PET chassis to confirm orientation.</text>
+<text x="30" y="40" font-size="20" font-weight="bold">PET IEEE-488 loopback / test plug</text>
+<text x="30" y="62" font-size="12" fill="#444">LED numbers match the program's prompts (#1–#16); edge-connector pin shown under each channel</text>
+</svg>
